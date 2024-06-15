@@ -1,0 +1,50 @@
+Country,City,AQI Value,AQI Category,CO AQI Value,CO AQI Category,Ozone AQI Value,Ozone AQI Category,NO2 AQI Value,NO2 AQI Category,PM2.5 AQI Value,PM2.5 AQI Category,lat,lng
+Russian Federation,Praskoveya,51,Moderate,1,Good,36,Good,0,Good,51,Moderate,44.7444,44.2031
+Brazil,Presidente Dutra,41,Good,1,Good,5,Good,1,Good,41,Good,-5.29,-44.49
+Brazil,Presidente Dutra,41,Good,1,Good,5,Good,1,Good,41,Good,-11.2958,-41.9869
+Italy,Priolo Gargallo,66,Moderate,1,Good,39,Good,2,Good,66,Moderate,37.1667,15.1833
+Poland,Przasnysz,34,Good,1,Good,34,Good,0,Good,20,Good,53.0167,20.8833
+United States of America,Punta Gorda,54,Moderate,1,Good,14,Good,11,Good,54,Moderate,16.1005,-88.8074
+United States of America,Punta Gorda,54,Moderate,1,Good,14,Good,11,Good,54,Moderate,26.8941,-82.0513
+Belgium,Puurs,64,Moderate,1,Good,29,Good,7,Good,64,Moderate,51.0761,4.2803
+Russian Federation,Pyatigorsk,54,Moderate,1,Good,41,Good,1,Good,54,Moderate,44.05,43.0667
+China,Qinzhou,68,Moderate,2,Good,68,Moderate,1,Good,58,Moderate,21.95,108.6167
+Netherlands,Raalte,41,Good,1,Good,24,Good,6,Good,41,Good,52.3833,6.2667
+France,Raismes,59,Moderate,1,Good,30,Good,4,Good,59,Moderate,50.3892,3.4858
+Italy,Ramacca,55,Moderate,1,Good,47,Good,0,Good,55,Moderate,37.3833,14.7
+United States of America,Phoenix,72,Moderate,1,Good,4,Good,23,Good,72,Moderate,33.5722,-112.0892
+Poland,Piaseczno,28,Good,1,Good,28,Good,2,Good,28,Good,52.0667,21.0167
+Brazil,Pinheiral,154,Unhealthy,5,Good,0,Good,13,Good,154,Unhealthy,-22.5128,-44.0008
+Colombia,Plato,67,Moderate,1,Good,16,Good,2,Good,67,Moderate,9.7919,-74.7872
+Romania,Poiana Mare,62,Moderate,1,Good,37,Good,1,Good,62,Moderate,43.9333,23.0833
+Russian Federation,Polevskoy,31,Good,1,Good,31,Good,0,Good,17,Good,56.45,60.1833
+France,Pontarlier,56,Moderate,1,Good,35,Good,0,Good,56,Moderate,46.9061,6.3547
+United States of America,Pontiac,77,Moderate,2,Good,22,Good,15,Good,77,Moderate,42.6493,-83.2878
+United States of America,Pontiac,77,Moderate,2,Good,22,Good,15,Good,77,Moderate,40.8894,-88.6409
+Indonesia,Pontianak,44,Good,1,Good,15,Good,0,Good,44,Good,-0.0206,109.3414
+Brazil,Porecatu,30,Good,1,Good,9,Good,2,Good,30,Good,-22.7558,-51.3789
+Finland,Pori,30,Good,1,Good,30,Good,1,Good,15,Good,61.4833,21.8
+South Africa,Port Elizabeth,79,Moderate,3,Good,18,Good,5,Good,79,Moderate,-33.9581,25.6
+United States of America,Port Neches,34,Good,1,Good,19,Good,7,Good,34,Good,29.9765,-93.9459
+United Kingdom of Great Britain and Northern Ireland,Port Talbot,51,Moderate,1,Good,20,Good,5,Good,51,Moderate,51.5906,-3.7986
+United States of America,Portales,77,Moderate,1,Good,34,Good,0,Good,77,Moderate,34.1754,-103.3565
+United States of America,Post Falls,61,Moderate,1,Good,32,Good,3,Good,61,Moderate,47.7213,-116.9384
+Brazil,Pouso Alegre,32,Good,1,Good,7,Good,2,Good,32,Good,-22.2281,-45.9336
+Russian Federation,Dalnegorsk,29,Good,0,Good,29,Good,0,Good,25,Good,44.55,135.5833
+India,Darbhanga,247,Very Unhealthy,3,Good,162,Unhealthy,1,Good,247,Very Unhealthy,26.17,85.9
+United States of America,Dayton,45,Good,1,Good,32,Good,7,Good,45,Good,39.7805,-84.2003
+United States of America,Dayton,45,Good,1,Good,32,Good,7,Good,45,Good,39.2592,-119.5653
+United States of America,Dayton,45,Good,1,Good,32,Good,7,Good,45,Good,30.0315,-94.9158
+Belgium,Deinze,36,Good,1,Good,25,Good,3,Good,36,Good,50.9833,3.5333
+Haiti,Delmas,124,Unhealthy for Sensitive Groups,2,Good,15,Good,5,Good,124,Unhealthy for Sensitive Groups,18.55,-72.3
+United States of America,Deming,72,Moderate,1,Good,26,Good,2,Good,72,Moderate,32.2631,-107.7525
+United Kingdom of Great Britain and Northern Ireland,Denton,55,Moderate,0,Good,32,Good,1,Good,55,Moderate,33.2175,-97.1418
+United Kingdom of Great Britain and Northern Ireland,Denton,55,Moderate,0,Good,32,Good,1,Good,55,Moderate,53.4554,-2.1122
+United States of America,Destin,31,Good,0,Good,31,Good,0,Good,25,Good,30.395,-86.4701
+India,Dharmapuri,60,Moderate,1,Good,31,Good,1,Good,60,Moderate,12.127,78.158
+Philippines,Dipolog,30,Good,1,Good,17,Good,0,Good,30,Good,8.5872,123.3408
+Latvia,Dobele,44,Good,1,Good,34,Good,0,Good,44,Good,56.6167,23.2667
+United States of America,Grandville,47,Good,1,Good,37,Good,4,Good,47,Good,42.9004,-85.7564
+Netherlands,Grave,37,Good,0,Good,32,Good,2,Good,37,Good,51.7667,5.7333
+United States of America,Green Valley,44,Good,1,Good,14,Good,8,Good,44,Good,31.8393,-111.0009
+United States of America,Green Valley,44,Good,1,Good,14,Good,8,Good,44,Good,39.3414,-77.24
